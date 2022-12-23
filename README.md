@@ -1,2 +1,2 @@
 # tc-logger
-Wrapper for Python Logging module
+Simple wrapper for Python Logging module
