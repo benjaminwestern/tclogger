@@ -4,7 +4,7 @@ setup(
     name='tclogger',
     version='2022.12.23',    
     description='Simple wrapper for Python Logger',
-    url='',
+    url='https://github.com/benjaminwestern/tclogger',
     author='Benjamin Western',
     author_email='code@benjaminwestern.dev',
     license='GNU General Public License v3 or later (GPLv3+)',
