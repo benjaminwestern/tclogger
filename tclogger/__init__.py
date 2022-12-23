@@ -3,7 +3,7 @@ import re
 import datetime
 import logging
 
-__version__ = "2022.12.23"
+__version__ = "0.1.0"
 __author__ = 'Benjamin Western'
 """
 tc-logger
